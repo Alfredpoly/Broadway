@@ -3,6 +3,8 @@ html {
 }
 #home {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
 }
 h1{
   font-family: helvetica;
@@ -29,9 +31,11 @@ p {
   font-family: helvetica;
   font-size: 14px;
 }
-.background_title {
+.background_title h3 {
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: auto 1500%;
 }
 .bas {
   font-family: helvetica;
